@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pruthvi-m-s/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pruthvi-m-s/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/pruthvi-m-s/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/pruthvi-m-s/Leetcode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pruthvi-m-s/Leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/pruthvi-m-s/Leetcode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pruthvi-m-s/Leetcode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pruthvi-m-s/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
