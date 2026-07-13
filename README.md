@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pruthvi-m-s/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/pruthvi-m-s/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/pruthvi-m-s/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pruthvi-m-s/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pruthvi-m-s/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pruthvi-m-s/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/pruthvi-m-s/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -54,4 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pruthvi-m-s/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pruthvi-m-s/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pruthvi-m-s/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pruthvi-m-s/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
